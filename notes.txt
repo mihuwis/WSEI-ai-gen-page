@@ -1,0 +1,15 @@
+Wygeneruj kod HTML, CSS oraz skrypty JS dla strony WWW składającej się ze strony 
+głównej oraz dwóch podstron.
+temat strony to porady treningowe dla osób aktywnych.
+. Wymagania:
+Wykorzystaj grafiki z dowolnej strony z darmowymi zdjęciami
+Menu w wersji mobilnej powinno być rozijane (tzw. hamburger) 
+Pod meu (wersja desktop) lub obok menu (wersja mobilne) ma znajdowac sie zdjęcie aktywnej osoby. Rozmiary zdjęcia to szerokość na całą stronę i wysokość ok 200px 
+Elementy interaktywne w JS (np. cykliczne zmieniany nagłówek/tło strony)
+Wykorzystaj Grafikę SVG - przedstawiającą np hantle lub sztangę 
+Grafikę 3D stworzoną za pomocą HTML5 Canvas - dowolną grafika w temacie aktywności 
+ Interaktywną galerię - minimum 10 zdjęć aktywnych osoób
+ Złożoną (skomplikowaną) tabelę z przykładowymi danymi - minimum 20 porad treningowych 
+ Złożony formularz z różnymi typami pól (najlepiej ze wszystkimi możliwymi ;)
+ Strony mają być responsywne. Dostosowane do róznych ekranów.
+ Projekt ma być estetyczny, czytelny, ma spełniać wymogi UX.
